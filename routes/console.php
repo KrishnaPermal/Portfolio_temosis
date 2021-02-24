@@ -1,6 +1,7 @@
 <?php
 
 use Themosis\Core\HelloDolly;
+use Themosis\Core\Support\Facades\Console;
 
 /*
 |--------------------------------------------------------------------------
